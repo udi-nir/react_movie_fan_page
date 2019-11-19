@@ -1,0 +1,15 @@
+.movieBlock {
+  display: inline-block;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+.movieText {
+  text-align: center;
+  font-family: fantasy;
+  background: lightgray;
+}
+
+.movieImg {
+  width: 10rem;
+}
