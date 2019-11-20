@@ -5,7 +5,7 @@ import "./style.css";
 function Header(props) {
   return (
     <div>
-      <h2 className="header">Ice Age Movies</h2>
+      <span className="header">Ice Age Movies</span>
     </div>
   );
 }
